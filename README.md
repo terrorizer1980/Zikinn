@@ -8,7 +8,7 @@
 # Contact me
 [![](https://img.shields.io/badge/-https://tangzhiqian.cn-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://tangzhiqian.cn)
 [![](https://img.shields.io/badge/-@Zikin_Personal-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Zikin_Personal)
-[![](https://img.shields.io/badge/-zuertx@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:zuertx_at_gmail.com)
+[![](https://img.shields.io/badge/-i@tzq.email-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:i@tzq.email)
 <!--
 **Zikinn/Zikinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
