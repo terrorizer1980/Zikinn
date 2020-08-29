@@ -1,7 +1,5 @@
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zikinn&show_icons=true&hide_border=true">
-<br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikinn&layout=compact">
 </a>
 
 # TongZikin
@@ -10,6 +8,10 @@
 ## Contact me
 [![](https://img.shields.io/badge/-https://me.tangzhiqian.cn-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://me.tangzhiqian.cn)
 [![](https://img.shields.io/badge/-i@tzq.email-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:i@tzq.email)
+
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikinn&layout=compact">
+</a>
 
 
 <!--
