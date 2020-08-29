@@ -1,5 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zikinn)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zikinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zikinn&show_icons=true&hide_border=true">
+</a>
 
 # TongZikin
 > A junior high school student from Beijing
