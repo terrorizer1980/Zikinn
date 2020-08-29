@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-i@tzq.email-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:i@tzq.email)
 
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikinn&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikinn&hide=javascript,html">
 </a>
 
 
