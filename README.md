@@ -1,5 +1,6 @@
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zikinn&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikinn&layout=compact">
 </a>
 
 # TongZikin
