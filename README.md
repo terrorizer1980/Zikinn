@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zikinn&show_icons=true&hide_border=true">
 </a>
 
-# TongZikin
+# Zikin
 > A junior high school student from Beijing
 
 ## Contact me
