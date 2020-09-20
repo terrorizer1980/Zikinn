@@ -3,7 +3,7 @@
 </a>
 
 # Zikin
-> A junior high school student from Beijing
+> A junior high school student
 
 ## Contact me
 [![](https://img.shields.io/badge/-https://zikin.me-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://zikin.me)
