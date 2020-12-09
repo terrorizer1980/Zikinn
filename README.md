@@ -6,8 +6,8 @@
 > A junior high school student
 
 ## Contact me
-[![](https://img.shields.io/badge/-https://zikin.me-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://zikin.me)
-[![](https://img.shields.io/badge/-i@tzq.email-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:i@tzq.email)
+[![](https://img.shields.io/badge/-https://zikin.org-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://zikin.org)
+[![](https://img.shields.io/badge/-i@zikin.org-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:i@zikin.org)
 
 ## My Public Keys  (For Email)
 [https://github.com/MyPublicKeys/0x04286729](https://github.com/MyPublicKeys/0x04286729)
