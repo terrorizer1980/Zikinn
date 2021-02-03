@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-i@zikin.org-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:i@zikin.org)
 
 ## My Public Keys  (For Email)
-[https://github.com/MyPublicKeys/0xBFFB150F](https://github.com/MyPublicKeys/0xBFFB150F)
+[https://github.com/Zikinn/PublicKeys](https://github.com/Zikinn/PublicKeys)
 
 <!--
 **Zikinn/Zikinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
