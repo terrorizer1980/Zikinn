@@ -6,8 +6,9 @@
 > A junior high school student
 
 ## Contact me
-[![](https://img.shields.io/badge/-https://zikin.org-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://zikin.org)
-[![](https://img.shields.io/badge/-i@zikin.org-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:i@zikin.org)
+- Email: [i@zikin.org](mailto:i@zikin.org)
+- Blog:  [zikin.org](https://zikin.org/)
+- Copyright Notice:  > [Archive on GitHub](https://github.com/ZikinORG/copyright) , [Copyright Page](https://zikin.org/copyright/)
 
 ## My PGP Public Keys  (For Email)
 [BF50 ACD8 2604 934D 4CD7  DF35 EC39 5393 AE4E 2077](https://github.com/Zikinn/PGP)
