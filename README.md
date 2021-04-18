@@ -8,7 +8,7 @@
 ## Contact me
 - Email: [i@zikin.org](mailto:i@zikin.org)
 - Blog:  [zikin.org](https://zikin.org/)
-- Copyright Notice:  > [Archive on GitHub](https://github.com/ZikinORG/copyright) , [Copyright Page](https://zikin.org/copyright/)
+- Copyright Notice:  > [Archive on GitHub](https://github.com/ZikinORG/copyright) , > [Copyright Page](https://zikin.org/copyright/)
 
 ## My PGP Public Keys  (For Email)
 [BF50 ACD8 2604 934D 4CD7  DF35 EC39 5393 AE4E 2077](https://github.com/Zikinn/PGP)
